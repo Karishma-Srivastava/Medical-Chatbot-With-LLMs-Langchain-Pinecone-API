@@ -6,6 +6,7 @@ mkdir -p research
 touch src/__init__.py
 touch src/helpers.py
 touch src/prompts.py
+touch src/store_index.py
 touch .env
 touch setup.py
 touch app.py
